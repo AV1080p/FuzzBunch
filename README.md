@@ -17,6 +17,8 @@ NSA Finest Tool
 python fb.py
 ```
 
+![fb.py](https://github.com/re4lity/FuzzBunch/blob/master/pic/fb.py.png)
+
 界面操作模式：
 
 ```
