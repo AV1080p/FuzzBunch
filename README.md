@@ -24,3 +24,5 @@ python fb.py
 ```
 python start_lp.py
 ```
+
+![start_lp.py.png](https://github.com/re4lity/FuzzBunch/blob/master/pic/start_lp.py.png)
